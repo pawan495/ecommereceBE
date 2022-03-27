@@ -5,6 +5,7 @@
   * [Usage](#usage)
   * [Test](#test)
   * [Contributor](#contributor)
+  * [Help](#help)
   * [License](#license)
   * [Questions](#questions)
   
@@ -34,6 +35,8 @@
 ## Contribute?
 Any additional parameters you would like to add can be submitted for review.
 
+## Help
+I got a help from AskBCS , some from module and google(https://www.google.com)
   
 # License
 
