@@ -10,7 +10,7 @@
   * [Questions](#questions)
   
   ## Description
-  Build the back end for an e-commerce site. Take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
+  Build an e-commerce site using back-end. Take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
 
   ## Installation
    Follow these steps to install this application :-   
@@ -36,7 +36,7 @@
 Any additional parameters you would like to add can be submitted for review.
 
 ## Help
-I got a help from AskBCS , some from module and google(https://www.google.com)
+I got a help from AskBCS(they give me awesome solution) , some from module and google(https://www.google.com)
   
 # License
 
